@@ -31,7 +31,7 @@ Talk to me about
  [![Medium Badge](https://img.shields.io/badge/-@mishra.shanu15-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mishra.shanu15/)](https://medium.com/@mishra.shanu15/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mishra.shanu15@gmail.com)](mailto:mishra.shanu15@gmail.com)
 
-
+<img align="left" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
  
 
 
