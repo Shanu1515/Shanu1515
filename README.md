@@ -6,6 +6,7 @@ I'm Shanu Mishra,an App Developer :iphone: from India who is passionate about te
 ### ⚡ Technologies
 Talk to me about
 - Mobile application development using **Flutter,React Native**
+- Web development-**HTML/CSS,Javascript,Django**
 - Backend development-**Firebase,Mysql**
 - Data Analytics -**Python,R**
 - Blockchain- **Solidity**
@@ -19,6 +20,7 @@ Talk to me about
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
 
