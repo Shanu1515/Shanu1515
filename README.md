@@ -5,11 +5,12 @@ I'm Shanu Mishra,an App Developer :iphone: from India who is passionate about te
 
 ### ⚡ Technologies
 Talk to me about
-- Mobile application development using **Flutter,React Native**
-- Web development-**HTML/CSS,Javascript,Django**
+- Mobile application development using **Flutter**
+- Web development-**HTML/CSS,Javascript**
 - Backend development-**Firebase,Mysql**
 - Data Analytics -**Python,R**
 - Blockchain- **Solidity**
+- Digital Marketing
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -22,7 +23,7 @@ Talk to me about
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
+
 
 
 ###  📫 How to reach me:
@@ -32,8 +33,8 @@ Talk to me about
 [![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/mishra.shanu15/)
  [![Medium Badge](https://img.shields.io/badge/-@mishra.shanu15-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mishra.shanu15/)](https://medium.com/@mishra.shanu15/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mishra.shanu15@gmail.com)](mailto:mishra.shanu15@gmail.com)
-
-<img align="left" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
  
 
 
